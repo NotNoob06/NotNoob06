@@ -1,8 +1,8 @@
 <h1> Im NooB </h1>
-- yes im noob \n
-- i like codding bot 👀
-- know a little HTML/CSS 🤢
-- im dumb cus why ? cus im not smart 😎
+<p> - yes im noob </p>
+<p> - i like codding bot 👀 </p>
+<p> - know a little HTML/CSS 🤢 </p> 
+<p> - im dumb cus why ? cus im not smart 😎 </p>
 
 <!---
 NotNoob06/NotNoob06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
