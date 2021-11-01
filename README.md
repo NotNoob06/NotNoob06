@@ -1,5 +1,5 @@
 <h1> Im NooB </h1>
-- yes im noob
+- yes im noob \n
 - i like codding bot 👀
 - know a little HTML/CSS 🤢
 - im dumb cus why ? cus im not smart 😎
